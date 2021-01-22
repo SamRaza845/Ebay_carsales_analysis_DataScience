@@ -1,2 +1,3 @@
-# Ebay_carsales_analysis_DataScience
-Ebay_carsales data analysis and visualization using python, pandas and numpy on jupyter
+# Exploring-eBay-Car-Sales
+
+In thi project I have analyze the eBay car sales data.
